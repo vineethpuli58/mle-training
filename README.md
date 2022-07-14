@@ -17,13 +17,13 @@ The following techniques have been used:
 ## To excute the script
  - Download the files (README, nonstandardcode_modified.py)
  - On Unix shell: 
-    - setting up a python development environment: ''' conda create --name mle-dev python '''
-    - activate the environment: ''' conda activate mle-dev '''
-    - Run the following command: ''' python nonstandardcode_modified.py '''
+    - setting up a python development environment: ``` conda create --name mle-dev python ```
+    - activate the environment: ``` conda activate mle-dev ```
+    - Run the following command: ``` python nonstandardcode_modified.py ```
     - need to install required libraries: 
-               - ''' pip install pandas '''
-               - ''' pip install numpy '''
-               - ''' pip install matplotlib '''
-               - ''' pip install sklearn '''
-    - export the environment file: ''' conda env export > env.yml '''
+               - ``` pip install pandas ```
+               - ``` pip install numpy ```
+               - ``` pip install matplotlib ```
+               - ``` pip install sklearn ```
+    - export the environment file: ``` conda env export > env.yml ```
   
