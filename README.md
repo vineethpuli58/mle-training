@@ -19,7 +19,7 @@ The following techniques have been used:
  - On Unix shell: 
     - setting up a python development environment: ``` conda create --name mle-dev python ```
     - activate the environment: ``` conda activate mle-dev ```
-    - Run the following command: ``` python nonstandardcode_modified.py ```
+    - Run the following command: ``` python nonstandardcode.py ```
     - need to install required libraries: 
                - ``` pip install pandas ```
                - ``` pip install numpy ```
