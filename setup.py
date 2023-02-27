@@ -3,7 +3,7 @@ import setuptools
 setuptools.setup(
     include_package_data=True,
     name="mle_training",
-    version="0.3.0",
+    version="0.5.0",
     author="vineeth puli",
     package_dir={
         "": "src",
