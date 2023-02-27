@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vineethpuli/mle-training/mlruns/967854495154644830/53fa079df5674e2bb211aa0fe074e21c/artifacts
+end_time: 1677499767978
+entry_point_name: ''
+experiment_id: '967854495154644830'
+lifecycle_stage: active
+run_id: 53fa079df5674e2bb211aa0fe074e21c
+run_name: PARENT_RUN
+run_uuid: 53fa079df5674e2bb211aa0fe074e21c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677499605669
+status: 3
+tags: []
+user_id: vineethpuli
